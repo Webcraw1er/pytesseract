@@ -1,0 +1,10 @@
+text reading, transcripting, and saving program.
+once you run it, it reads a certain page(a lyric video in youtube), 
+transcripts it to a memo(opens a new memo) with 0.05 latency
+and types down everything it has read.
+and then saves it page by page in the following name:
+texttest1, texttest2, ...
+
+prepare:
+package tesseract
+
